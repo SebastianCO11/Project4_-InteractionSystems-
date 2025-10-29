@@ -9,7 +9,7 @@
 This project is a complete DJ system that uses **OSC Controller** (Open Sound Control) mobile app to control a music creation environment built in **Pure Data**. The system allows real-time music performance and creation through an intuitive mobile interface.
 
 ## Demo Video
-[Link to YouTube video - max 5 minutes]
+The video showing a demo and an explanation in Spanish can be found [here](https://javerianacaliedu-my.sharepoint.com/:v:/g/personal/rafaelhermida_javerianacali_edu_co/EVC-kl5L5KdNtt1N464wla0BgsgZRtc_M5UZtKahYfFA0w?e=T6DOxB)
 
 ## Features
 
